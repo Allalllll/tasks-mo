@@ -1,5 +1,6 @@
 # tasks-mo
-## 1
+## 1 forestfires
+
 Датасет https://archive.ics.uci.edu/dataset/162/forest+fires
 Метрика RMSE
 
